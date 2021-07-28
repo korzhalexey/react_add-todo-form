@@ -1,2 +1,0 @@
-*{box-sizing:border-box}html{font-family:Roboto,sans-serif;background-color:#eee;padding:0 10px}body{margin:0}.App{text-align:center}input,select{width:150px;margin-right:10px;padding:0 10px}button,input,select{min-height:27px;font-family:inherit}.todo{display:flex;flex-direction:row;flex-wrap:wrap;width:100vw;padding:0;list-style:none;grid-gap:20px;gap:20px}.todo__item{padding:18px;background-color:#a3a3a3;border-radius:18px}.todo__user{font-size:1.25rem;font-weight:700}
-/*# sourceMappingURL=main.85d6f7f7.chunk.css.map */
